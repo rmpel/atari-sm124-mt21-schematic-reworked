@@ -1,0 +1,12 @@
+*)
+1KE Brightness and Contast knobs are not listed in the BOM.
+C310 is not listed in the BOM in the service manual.
+C717 is 100V, no space on the schematic to show.
+C909 is listed in the BOM as 47uF, but marked on the schematic as upgraded to 100uF.
+C931 is listed on the schematic as 47uF, in the BOM in service manual as 470uF.
+L701 is listed on the schematic as "116F", in the BOM in service manual as 3.3uH which makes more sense.
+R616 is listed on the schematic as 470R, in service manual as 270R.
+R707 is illegible but looks like 8R or 18R, in service manual 81R is stated.
+VDL? is illegible on schematic and is not listed in the BOM in the service manual.
+VR702 Illegible text accompanies this trim pot.
+C306 is listed on the schematic as 16V, 10V in the BOM in the service manual.
